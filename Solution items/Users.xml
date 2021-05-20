@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Users xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User Name="nik">
+    <Weight>70</Weight>
+    <Height>185</Height>
+    <Age>19</Age>
+    <DailyActivity>Normal</DailyActivity>
+  </User>
+</Users>
